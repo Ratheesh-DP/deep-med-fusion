@@ -1,5 +1,18 @@
 # Welcome to your Lovable project
 
+## Project Overview
+
+Deep-Med-Fusion is a research and development project for fusing multi-modal medical images (for example MRI, CT, and PET) using deep learning techniques. The goal is to combine complementary information from different imaging modalities to produce high-quality fused images that can help clinicians and improve downstream automated analysis.
+
+Key goals:
+
+- Provide modular training and inference pipelines for image fusion models (encoder-decoder, attention-based fusion, and other deep-learning approaches).
+- Support common medical imaging formats and preprocessing steps.
+- Include evaluation metrics and visualization tools for quantitative and qualitative assessment of fused outputs.
+- Serve as a starting point for research experiments and prototyping in medical image fusion.
+
+Current status: initial template and scaffolding. See the repository for model implementations, datasets, and usage examples. TODO: add detailed setup, training instructions, datasets, and benchmarks.
+
 ## Project info
 
 **URL**: https://lovable.dev/projects/91fa870a-ff09-4da5-91c9-66efa7ff2916
