@@ -226,3 +226,16 @@ For questions, demos, or interview preparation help, open an issue or reach out 
 - Fill in dataset-specific configs and provide download scripts.
 - Add at least one fully reproducible experiment with published results and a small demo notebook for interviews.
 - Include model cards and ethical considerations for clinical usage.
+
+## Deployment
+
+Free-tier deployment files are included for:
+
+- Vercel frontend
+- Render FastAPI backend
+- Neon PostgreSQL
+- Hugging Face Spaces Gradio demo
+- GitHub Actions CI/CD
+- Cloudinary demo image storage
+
+See `docs/deployment/free-tier-deployment.md`.
